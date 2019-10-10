@@ -1,0 +1,22 @@
+#background{
+  background: url(../images/billy-650.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ccc;
+}
+
+div.transbox {
+    margin: 0;
+    background: rgba(0, 0, 0, .6);
+    position: fixed;
+    top: 30%;
+  }
+
+div.transbox p, ol{
+    margin:5%;
+    font-size:16px;
+    font-family: din-condensed, sans-serif; font-style: normal; font-weight: 300;
+    font-weight:400;
+    line-height:1.8em;
+    color:#fff;
+}
